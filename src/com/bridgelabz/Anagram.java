@@ -21,9 +21,7 @@ public class Anagram {
             }else {
                 System.out.println(first +" And " + second+ " Are Not Anagram");
             }
-        }else {
-            System.out.println(first +" And " + second+ " Are Not Anagram");
-        }
+       
     }
 
     public static void main(String[] args) {
